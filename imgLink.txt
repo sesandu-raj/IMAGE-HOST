@@ -1,0 +1,6 @@
+<img
+                  src="https://i.postimg.cc/FH7Bx0Bb/ieee-day-logo.png"
+                  alt="IEEE Day – Leveraging Technology for a Better Tomorrow"
+                  width="190"
+                  style="margin: 0 auto; width: 190px"
+                />
